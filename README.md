@@ -7,5 +7,4 @@ So far we have been able to design a Model which is performing well on one patie
 
 <img src="Thesis_Zahra.png" width="600"/>
 
-Left: Ground Truth  
-Right: PINN Prediction
+
