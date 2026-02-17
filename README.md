@@ -14,6 +14,8 @@ Current Progress
 So far, we have developed a model that performs well on a single patient. The preliminary results are shown below.
 
 Velocity Prediction
+
+
 <img src="Thesis_Zahra.png" width="600"/>
 
 
