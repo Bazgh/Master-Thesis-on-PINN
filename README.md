@@ -9,6 +9,9 @@ From the literature on PINNs, it is known that existing approaches—ranging fro
 
 The main objective of this project is to design a model that achieves better generalization by conditioning the network on patient-specific information.
 
+## Model Architecture
+<img src="PINN_Architecture.png" width="600"/>
+
 ## Current Progress
 
 So far, we have developed a model that performs well on a single patient. The preliminary results are shown below.
