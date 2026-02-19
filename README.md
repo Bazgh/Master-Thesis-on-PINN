@@ -22,6 +22,9 @@ So far, we have developed a model that performs well on a single patient. The pr
 
 <img src="Thesis_Zahra.png" width="600"/>
 
+## Ongoing Research on generalize to unseen data 
+After developing a well-performing model conditioned on patient-specific information, we are now testing our method on different datasets to evaluate whether it can generalize to unseen patients.
+
 
 
 
