@@ -2,7 +2,7 @@
 
 This repository presents the data and experimental results of my Master’s thesis on Physics-Informed Neural Networks for 4D Flow MRI reconstruction in cardiovascular applications. The project focuses on improving model generalization across patients by incorporating patient-specific conditioning mechanisms.
 
-##Background
+## Background
 
 From the literature on PINNs, it is known that existing approaches—ranging from fully connected neural networks to more recent methods such as Gaussian splatting—can achieve strong performance on individual patients. However, despite these promising results, most models do not generalize well to unseen patients.
 
